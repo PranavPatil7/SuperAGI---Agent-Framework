@@ -13,21 +13,6 @@
 
 
 
-<p align="center"><b>Follow SuperAGI </b></p>
-
-<p align="center">
-<a href="https://twitter.com/_superAGI" target="blank">
-<img src="https://img.shields.io/twitter/follow/_superAGI?label=Follow: _superAGI&style=social" alt="Follow _superAGI"/>
-</a>
-<a href="https://www.reddit.com/r/Super_AGI" target="_blank"><img src="https://img.shields.io/twitter/url?label=/r/Super_AGI&logo=reddit&style=social&url=https://github.com/TransformerOptimus/SuperAGI"/></a>
-
-<a href="https://discord.gg/dXbRe5BHJC" target="blank">
-<img src="https://img.shields.io/discord/1107593006032355359?label=Join%20SuperAGI&logo=discord&style=social" alt="Join SuperAGI Discord Community"/>
-</a>
-<a href="https://www.youtube.com/@_superagi" target="_blank"><img src="https://img.shields.io/twitter/url?label=Youtube&logo=youtube&style=social&url=https://github.com/TransformerOptimus/SuperAGI"/></a>
-</p>
-
-
 
 ### 💡 Features
 
@@ -131,62 +116,3 @@ cd SuperAGI
 ![ER Diagram](https://superagi.com/wp-content/uploads/2023/09/ER-Diagram.png)
 </details>
 
-### 📚 Resources
-
-* [Documentation](https://superagi.com/docs/)
-* [YouTube Channel](https://www.youtube.com/@_SuperAGI/videos)
-
-
-### 📖 Need Help?
-
-Join our [Discord community](https://discord.gg/dXbRe5BHJC) for support and discussions.
-
-[![Join us on Discord](https://invidget.switchblade.xyz/uJ3XUGsY2R)](https://discord.gg/uJ3XUGsY2R)
-
-If you have questions or encounter issues, please don't hesitate to [create a new issue](https://github.com/TransformerOptimus/SuperAGI/issues/new/choose) to get support.
-
-### 💻 Contribution
-We ❤️ our contributors. We’re committed to fostering an open, welcoming, and safe environment in the community.
-
-If you'd like to contribute, start by reading our [Contribution Guide](https://github.com/TransformerOptimus/SuperAGI/blob/main/CONTRIBUTING.md).
-
-We expect everyone participating in the community to abide by our [Code of Conduct](https://github.com/TransformerOptimus/SuperAGI/blob/main/CODE_OF_CONDUCT.md).
-
-To get more idea on where we are heading, checkout our roadmap [here](https://github.com/users/TransformerOptimus/projects/5/views/1).
-
-Explore some [good first issues](https://github.com/TransformerOptimus/SuperAGI/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) to start contributing.
-
-### 👩‍💻 Contributors
-[![TransformerOptimus](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/133493246?v=4&w=50&h=50&mask=circle)](https://github.com/TransformerOptimus) [![Cptsnowcrasher](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/133322218?v=4&w=50&h=50&mask=circle)](https://github.com/Cptsnowcrasher) [![vectorcrow](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/133646556?v=4&w=50&h=50&mask=circle)](https://github.com/vectorcrow) [![Akki-jain](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/92881074?v=4&w=50&h=50&mask=circle)](https://github.com/Akki-jain) [![Autocop-Agent](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/129729746?v=4&w=50&h=50&mask=circle)](https://github.com/Autocop-Agent)[![COLONAYUSH](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/60507126?v=4&w=50&h=50&mask=circle)](https://github.com/COLONAYUSH)[![luciferlinx101](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/129729795?v=4&w=50&h=50&mask=circle)](https://github.com/luciferlinx101)[![mukundans89](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/101278493?v=4&w=50&h=50&mask=circle)](https://github.com/mukundans89)[![Fluder-Paradyne](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/121793617?v=4&w=50&h=50&mask=circle)](https://github.com/Fluder-Paradyne)[![nborthy](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/101320057?v=4&w=50&h=50&mask=circle)](https://github.com/nborthy)[![nihirr](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/122777244?v=4&w=50&h=50&mask=circle)](https://github.com/nihirr)[![Tarraann](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/97586318?v=4&w=50&h=50&mask=circle)](https://github.com/Tarraann)[![neelayan7](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/43145646?v=4&w=50&h=50&mask=circle)](https://github.com/neelayan7)[![Arkajit-Datta](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/61142632?v=4&w=50&h=50&mask=circle)](https://github.com/Arkajit-Datta)[![guangchen811](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/103159823?v=4&w=50&h=50&mask=circle)](https://github.com/guangchen811)[![juanfpo96](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/14787156?v=4&w=50&h=50&mask=circle)](https://github.com/juanfpo96)[![iskandarreza](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/32027019?v=4&w=50&h=50&mask=circle)](https://github.com/iskandarreza)[![jpenalbae](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/8380459?v=4&w=50&h=50&mask=circle)](https://github.com/jpenalbae)[![pallasite99](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/26508636?v=4&w=50&h=50&mask=circle)](https://github.com/pallasite99)[![xutpuu](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/11964505?v=4&w=50&h=50&mask=circle)](https://github.com/xutpuu)[![alexkreidler](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/11166947?v=4&w=50&h=50&mask=circle)](https://github.com/alexkreidler)[![hanhyalex123](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100895608?v=4&w=50&h=50&mask=circle)](https://github.com/hanhyalex123)[![ps4vs](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/91535358?v=4&w=50&h=50&mask=circle)](https://github.com/ps4vs)[![eltociear](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/22633385?v=4&w=50&h=50&mask=circle)](https://github.com/eltociear)
-[![shaiss](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113060?v=4&w=50&h=50&mask=circle)](https://github.com/shaiss)
-[![AdityaRajSingh1992](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/105219157?v=4&w=50&h=50&mask=circle)](https://github.com/AdityaRajSingh1992)
-[![namansleeps2](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/134390870?v=4&w=50&h=50&mask=circle)](https://github.com/namansleeps22)
-[![sirajperson](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/396941?v=4&w=50&h=50&mask=circle)](https://github.com/sirajperson)
-[![hsm207](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/2398765?v=4&w=50&h=50&mask=circle)](https://github.com/hsm207)
-[![unkn-wn](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/43097991?v=4&w=50&h=50&mask=circle)](https://github.com/unkn-wn)
-[![DMTarmey](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/590474?v=4&w=50&h=50&mask=circle)](https://github.com/DMTarmey)
-[![Parth2506](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/122429822?v=4&w=50&h=50&mask=circle)](https://github.com/Parth2506)
-[![platinaCoder](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/47349795?v=4&w=50&h=50&mask=circle)](https://github.com/platinaCoder)
-[![anisha1607](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/60440541?v=4&w=50&h=50&mask=circle)](https://github.com/anisha1607)
-[![jorgectf](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/46056498?v=4&w=50&h=50&mask=circle)](https://github.com/jorgectf)
-[![PaulRBerg](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/8782666?v=4&w=50&h=50&mask=circle)](https://github.com/PaulRBerg)
-[![boundless-asura](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/122777244?v=4&w=50&h=50&mask=circle)](https://github.com/boundless-asura)
-[![JPDucky](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/34105363?v=4&w=50&h=50&mask=circle)](https://github.com/JPDucky)
-[![Vibhusha22](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/128478691?v=4&w=50&h=50&mask=circle)](https://github.com/Vibhusha22)
-[![ai-akuma](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/7444521?v=4&w=50&h=50&mask=circle)](https://github.com/ai-akuma)
-[![rounak610](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/81288115?v=4&w=50&h=50&mask=circle)](https://github.com/rounak610)
-[![AdarshJha619](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/53672264?v=4&w=50&h=50&mask=circle)](https://github.com/AdarshJha619)
-[![ResoluteStoic](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/105219157?v=4&w=50&h=50&mask=circle)](https://github.com/ResoluteStoic)
-[![JohnHunt999](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/137149331?v=4&w=50&h=50&mask=circle)](https://github.com/JohnHunt999)
-[![Maverick-F35](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/138012351?v=4&w=50&h=50&mask=circle)](https://github.com/Maverick-F359)
-[![jorgectf](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/46056498?v=4&w=50&h=50&mask=circle)](https://github.com/jorgectf)
-[![AdityaSharma13064](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/138581531?v=4&w=50&h=50&mask=circle)](https://github.com/AdityaSharma13064)
-[![lalitlj](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/138583454?v=4&w=50&h=50&mask=circle)](https://github.com/lalitlj)
-[![andrew-kelly-neutralaiz](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/128111428?v=4&w=50&h=50&mask=circle)](https://github.com/andrew-kelly-neutralaiz)
-[![sayan1101](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/139119661?v=4&w=50&h=50&mask=circle)](https://github.com/sayan1101)
-
-
-<p align="center"><a href="https://github.com/TransformerOptimus/SuperAGI#"><img src="https://superagi.com/wp-content/uploads/2023/05/backToTopButton.png" alt="Back to top" height="29"/></a></p>
-
-### ⚠️ Under Development!
-This project is under active development and may still have issues. We appreciate your understanding and patience. If you encounter any problems, please check the open issues first. If your issue is not listed, kindly create a new issue detailing the error or problem you experienced. Thank you for your support!
